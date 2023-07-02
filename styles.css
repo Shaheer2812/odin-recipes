@@ -1,0 +1,27 @@
+* {
+    background-color:darkslategray;
+    line-height: normal;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 48px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+a {
+    color: crimson;
+    font-weight: bold;
+    font-style: italic;
+    background-color: aliceblue;
+    font-family: calibri;
+    font-size: 36px;
+
+}
+
+li,
+ol {
+    font-size: large;
+}
